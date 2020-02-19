@@ -1,0 +1,29 @@
+{
+	"name": "mezon/rest-exception",
+	"description": "Small rest-exception script",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Dodonov Alexey",
+			"email": "alexey@dodonov.pro",
+			"homepage": "http://gdzone.ru",
+			"role": "Founder"
+		}
+	],
+	"require": {
+		"php": ">=7.2.0"
+	},
+	"support": {
+		"email": "alexey@dodonov.pro",
+		"issues": "https://github.com/alexdodonov/mezon-rest-exception/issues",
+		"source": "https://github.com/alexdodonov/mezon-rest-exception"
+	},
+	"minimum-stability": "dev",
+	"homepage": "https://github.com/alexdodonov/mezon-rest-exception",
+	"prefer-stable": true,
+	"autoload": {
+		"psr-4": {
+			"Mezon\\Rest\\": ""
+		}
+	}
+}
