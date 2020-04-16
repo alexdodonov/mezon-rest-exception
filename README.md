@@ -7,3 +7,16 @@ Just type
 ```
 composer require mezon/rest-exception
 ```
+
+## Usage
+
+To use this class is very simple thing:
+
+```PHP
+throw(new \Mezon\Rest\Exception(
+	"", // message of the exception, like in the standard Exception class
+	-1, // code of the exception, like in the standard Exception class
+	200, // HTTP code of the request
+	"<p>Warning!" // HTTP request body
+));
+```

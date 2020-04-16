@@ -1,5 +1,5 @@
 <?php
-require (__DIR__ . '/../RestException.php');
+require (__DIR__ . '/../Exception.php');
 
 class RestExceptionUnitTest extends \PHPUnit\Framework\TestCase
 {
