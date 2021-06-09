@@ -8,6 +8,14 @@ Just type
 composer require mezon/rest-exception
 ```
 
+# Learn more
+
+More information can be found here:
+
+[Twitter](https://twitter.com/mezonphp)
+
+[dev.to](https://dev.to/alexdodonov)
+
 ## Usage
 
 To use this class is very simple thing:
